@@ -1,6 +1,6 @@
-👋 Hi, I’m @MohamedDiopGit
-👀 I’m interested in Computer Science and everything in Tech
-🌱 I’m currently working on many projects (Unity, AI Deep Learning, Websites,...)
+-👋 Hi, I’m @MohamedDiopGit
+- 👀 I’m interested in Computer Science and everything in Tech
+- 🌱 I’m currently working on many projects (Unity, AI Deep Learning, Websites,...)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-diop-info/)  
 <!---
