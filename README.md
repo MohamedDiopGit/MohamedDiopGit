@@ -1,6 +1,5 @@
  <h1>👋 Hi there</h1>
-- 👀 I’m interested in Machine Learning Computer Vision, AI and everything in Computer Science ! :)
-- 🌱 I’m currently working on many projects (Unity, AI Deep Learning, Websites,...), check my website in the bio !
+<h2>👀 I’m interested in Software, Machine Learning, Computer Vision, Web developement and AI</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=MohamedDiopGit&show_icons=true&theme=dark"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedDiopGit&theme=dark&layout=compact"/>
 
