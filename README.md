@@ -1,7 +1,7 @@
  <h1>👋 Hi there</h1>
 <h3>👀 I’m interested in Software, Machine Learning, Computer Vision, Web developement and AI</h3>
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=MohamedDiopGit&show_icons=true&theme=dark"/>
+ <img width=50% src="https://github-readme-stats.vercel.app/api?username=MohamedDiopGit&show_icons=true&theme=dark"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedDiopGit&theme=dark&layout=compact"/>
 </div>
 
